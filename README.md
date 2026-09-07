@@ -5,3 +5,4 @@ It will contain my work and progress as I develop my technical and problem-solvi
 Skill: Learning C programming
 Interest: Interested in software development and technology
 Interested in cloud computing
+Goal: contribute to open source
