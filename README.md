@@ -6,3 +6,6 @@ Skill: Learning C programming
 Interest: Interested in software development and technology
 Interested in cloud computing
 Goal: contribute to open source
+## Projects
+
+I am planning to build a Smart Hospital Management System to improve hospital management and provide efficient healthcare services.
